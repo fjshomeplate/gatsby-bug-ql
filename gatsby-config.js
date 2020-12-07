@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: "gatsby-source-graphql",
       options: {
-        url: "https://fnnaac.hasura.app/v1/graphql",
+        url: "REDACTED",
         typeName: "REMOTE",
         fieldName: "Remote",
       },
